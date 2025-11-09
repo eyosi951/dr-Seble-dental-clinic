@@ -777,7 +777,9 @@ p {
 
 @media (max-width: 768px) {
     /* Navigation */
-    
+    .hero-image{
+        display: none;
+    }
 
     /* Hero Section */
     .hero-container {
@@ -1012,6 +1014,7 @@ p {
         }
           
     }
+
 
 
 
